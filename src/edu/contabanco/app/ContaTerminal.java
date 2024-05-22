@@ -30,6 +30,7 @@ public class ContaTerminal {
 
         System.out.println(resultado);
 
+        scanner.close();
     }
     
 }
